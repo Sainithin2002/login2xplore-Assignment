@@ -27,18 +27,25 @@ Read more about JsonPowerDB at [Documentation Link](http://login2explore.com/jpd
 ### Release History
 
 Uploaded index.html(included js in html file) along with Readme.
+
 Index Page:
+
 ![registration form](https://github.com/Sainithin2002/login2xplore-Assignment/assets/126647522/5f770891-9be9-4cd4-a5cf-9396f2a0526f)
 
 Saving a new data:
+
 ![Save New Record](https://github.com/Sainithin2002/login2xplore-Assignment/assets/126647522/14769e64-5895-4e1b-b9b2-c3d5d6bb9044)
 
 Updating a data:
+
 ![Update Record](https://github.com/Sainithin2002/login2xplore-Assignment/assets/126647522/3b648292-07bf-4014-88a5-6608311a78fd)
 
 
 JPDB Database:
+
 ![Database photo](https://github.com/Sainithin2002/login2xplore-Assignment/assets/126647522/7f6c9b56-f9a9-4626-9e1b-123d858afa25)
+
+
 
 
 ## About
