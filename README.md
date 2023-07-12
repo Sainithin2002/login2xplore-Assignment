@@ -36,6 +36,7 @@ This Project uses Ajax and Jquery to communicate with the data along with the sc
 Most of the results and outputs are printed in the Console. Be sure to check the Console.
 
 ## Scope of functionalities
+![Database photo](https://github.com/Sainithin2002/login2xplore-Assignment/assets/126647522/7f6c9b56-f9a9-4626-9e1b-123d858afa25)
 
 Can be used for various platforms like Online Examination Registration, Job Application, Schools, Hospitals etc.
 
